@@ -7,61 +7,6 @@ GerenciadorDeTarefasAPI é uma API para gerenciar tarefas, permitindo criar, atu
 
 ```
 
-
-appsettings.Development.json
-
-
-
-
-appsettings.json
-
-
-bin/
-	Debug/
-		net8.0/
-Context/
-	
-
-OrganizadorContext.cs
-
-
-Controllers/
-	TarefaController.cs
-
-
-GerenciadorDeTarefasAPI.csproj
-
-
-
-
-GerenciadorDeTarefasAPI.http
-
-
-
-
-GerenciadorDeTarefasAPI.sln
-
-
-Migrations/
-	20241025195116_CriacaoTabelaTarefa.cs
-	20241025195116_CriacaoTabelaTarefa.Designer.cs
-	OrganizadorContextModelSnapshot.cs
-Models/
-	StatusTarefa.cs
-	Tarefa.cs
-obj/
-	Debug/
-	GerenciadorDeTarefasAPI.csproj.EntityFrameworkCore.targets
-	...
-
-
-Program.cs
-
-
-Properties/
-	...
-```
-
 ## Endpoints
 
 ### Criar uma Tarefa
