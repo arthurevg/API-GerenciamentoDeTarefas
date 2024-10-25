@@ -1,9 +1,7 @@
 ```markdown
-# GerenciadorDeTarefasAPI
+#API de gerenciamento de tarefas
 
-GerenciadorDeTarefasAPI é uma API para gerenciar tarefas, permitindo criar, atualizar, deletar e consultar tarefas com base em diferentes critérios.
-
-## Estrutura do Projeto
+GerenciadorDeTarefasAPI é uma API para gerenciar tarefas, permitindo criar, atualizar, deletar e consultar tarefas com base em diferentes critérios. Este projeto me ajudou a aprofundar meus conhecimentos em .NET, Entity Framework Core, além de banco de dados SQL.
 
 ```
 
